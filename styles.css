@@ -1,0 +1,18 @@
+
+button{
+    border-radius: 400;
+    background-color: rgb(193, 193, 193);
+    border: solid 2px rgb(46, 46, 46);
+    font-weight: bold;
+    transition: 0ms;align-self: auto;
+    transition: color .6s
+    ease-out;
+    padding: .7rem 2.3rem;
+    border: solid 16px color(srgb rgb(216, 216, 216) );} 
+    body {
+        background-color: rgb(72, 72, 72);
+        
+       
+        
+    }
+    
